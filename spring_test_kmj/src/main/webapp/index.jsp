@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="home.do"> 얍!~ </a>
+<a href="home.do"> 얍!~ 귀여워 </a>
 </body>
 </html>
