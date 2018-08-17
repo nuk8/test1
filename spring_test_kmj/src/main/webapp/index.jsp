@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="home.do"> 얍!~ 귀여워 </a>
+<a href="home.do"> 구글api테스트 </a>
+<a href="imgtest.do"> 이미지슬라이더테스트 </a>
 </body>
 </html>

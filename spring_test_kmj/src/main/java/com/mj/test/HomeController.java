@@ -47,5 +47,9 @@ public class HomeController {
 	  return "home";
 
 	}
+	@RequestMapping(value= "/imgtest.do")
+	public String imgtest() {
+		return "imgtest";
+	}
 	
 }
